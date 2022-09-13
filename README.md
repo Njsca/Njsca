@@ -4,7 +4,9 @@ My name is <strong> Denis Cantor </strong> (he/him), I just graduated from Le Wa
 This helped me start my journey into the tech world 🚀 
 and I am looking forward to getting to know more and more! 💻
 My current <strong> tech stack </strong>
-<img src="https://www.notion.so/Denis-Cantor-Web-Development-22742dbab674473cb7259f92dc2ef40e#d964ee4c3886412db13c6396668b49cb">.
+<img src="">
+![Web_Dev_Icons](https://user-images.githubusercontent.com/106014434/189869630-8ed520f7-b137-456a-ac21-f5a917111247.png)
+
 
 
 You can reach out to me on <a href="https://www.linkedin.com/in/denis-cantor/"> LinekdIn </a>
