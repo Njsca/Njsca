@@ -1,6 +1,15 @@
 ### Hi there 👋
 
-My name is <strong> Denis Cantor </strong>
+My name is <strong> Denis Cantor </strong> (he/him), I just graduated from Le Wagon, where I attended a <strong> Full Stack Web Development </strong> bootcamp, and I am now looking for an entry-level position as Software Engineer. 
+This helped me start my journey into the tech world 🚀 
+and I am looking forward to getting to know more and more! 💻
+My current <strong> tech stack </strong>
+<img src="https://www.notion.so/Denis-Cantor-Web-Development-22742dbab674473cb7259f92dc2ef40e#d964ee4c3886412db13c6396668b49cb">.
+
+
+You can reach out to me on <a href="https://www.linkedin.com/in/denis-cantor/"> LinekdIn </a>
+or by <a href = "mailto: deniscantor7@gmail.com"> email </a>. 
+
 
 
 <!--
