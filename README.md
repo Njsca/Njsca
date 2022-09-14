@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is <strong> Denis Cantor </strong> (he/him) and I just graduated from Le Wagon, where I attended a <strong> Full Stack Web Development </strong> bootcamp. 
+My name is <strong> Denis Cantor </strong> and I just graduated from Le Wagon, where I attended a <strong> Full Stack Web Development </strong> bootcamp. </br>
 This helped me start my journey into the tech world 🚀 
 and I am looking forward to getting to know more and more! 💻 </br>
 At the moment, I am looking for an entry-level position as Software Engineer that will allow me to keep on learning.
