@@ -7,7 +7,8 @@ At the moment, I am looking for an entry-level position as Software Engineer tha
 
 </br>
 
-You can reach out to me on <a href="https://www.linkedin.com/in/denis-cantor/"> LinekdIn </a>
+🗂️ Take a look at my portfolio<a href="https://www.notion.so/Denis-Cantor-Web-Development-22742dbab674473cb7259f92dc2ef40e" target="_blank">portfolio</a>! 
+You can reach out to me on <a href="https://www.linkedin.com/in/denis-cantor/" target="_blank"> LinekdIn </a>
 or by <a href = "mailto: deniscantor7@gmail.com"> email </a>. 
 
 </br>
